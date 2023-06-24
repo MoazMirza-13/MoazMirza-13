@@ -4,9 +4,9 @@
 
 • 🌱 I’m currently learning React,Next.js
 
-•👀 Like Mr. White breaks bad, I break barriers in frontend development, creating pixel-perfect masterpieces that'll make the website screams, "WOW!" 
+• 👁️ Like Mr. White breaks bad, I break barriers in frontend development, creating pixel-perfect masterpieces that'll make the website screams, "WOW!" 
 
 • 📫 How to reach me moazmirza13@gmail.com
 
-•⚡Fun fact: What Front-End Developers Do 💻 ? They sprinkle some magic 🧙🏻‍♂️ into the digital realm and create web wonders! 🪄 ✨ 
+•⚡ Fun fact: What Front-End Developers Do 💻 ? They sprinkle some magic 🧙🏻‍♂️ into the digital realm and create web wonders! 🪄 ✨ 
 
