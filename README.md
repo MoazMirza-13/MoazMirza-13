@@ -4,7 +4,7 @@
 
 • 🌱 I’m currently learning React,Next.js.
 
-• 👁️ What Front-End Developers Do 💻 ? They sprinkle some magic 🧙🏻‍♂️ into the digital realm and create web wonders! 🪄 ✨ 
+• 👁️ What Front-End Developers Do 💻 ? They sprinkle magic 🧙🏻‍♂️ into the digital realm and create web wonders! 🪄 ✨ 
 
 • 📫 How to reach me moazmirza13@gmail.com
 
