@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Moaz Mirza</h1>
 <h3 align="center">A passionate frontend developer 👨‍💻 from Pakistan with a desire to create beautiful designs ✨ and friendly user experiences websites 🌐.</h3>
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=moazmirza-13&label=Profile%20views&color=0e75b6&style=flat" alt="moazmirza-13" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moazmirza-13&label=Profile%20views&color=0e75b6&style=flat" alt="moazmirza-13" /> </p>
+[![GitHub followers](https://img.shields.io/github/followers/moazmirza-13.svg?style=social&label=Follow)](https://github.com/moazmirza-13?tab=followers)
+
 
 <p align="left"> <a href="https://twitter.com/im_groot13" target="blank"><img src="https://img.shields.io/twitter/follow/im_groot13?logo=twitter&style=for-the-badge" alt="im_groot13" /></a> </p>
 
@@ -15,7 +20,7 @@
 
 - 📫 How to reach me **moazmirza13@gmail.com**
 
-- ⚡ Fun fact **Like Mr. White breaks bad, I break barriers in frontend development, creating pixel-perfect masterpieces that'll make the website screams, "WOW!"**
+- ⚡ Fun fact **Like Mr. White knows how to cook, i know how to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
