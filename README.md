@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MoazMirza-13](https://github.com/MoazMirza-13)
+- 👨‍💻 All of my projects are available at [MoazMirza-13](https://github.com/MoazMirza-13)
 
 - 💬 Ask me about **How to center a div 👀**
 
