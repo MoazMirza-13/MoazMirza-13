@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moazmirza-13&show_icons=true&locale=en" alt="moazmirza-13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moazmirza-13&" alt="moazmirza-13" /></p>
+
+[![An image of @moazmirza13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moazmirza13)](https://holopin.io/@moazmirza13)
