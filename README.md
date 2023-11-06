@@ -12,7 +12,7 @@
 
 - 💻 I’m currently working on [Elegencia](https://elegencia.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js & Express.js**
 
 - 👨‍💻 All of my projects are available at [MoazMirza-13](https://github.com/MoazMirza-13?tab=repositories)
 
