@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/im_groot13" target="blank"><img src="https://img.shields.io/twitter/follow/im_groot13?logo=twitter&style=for-the-badge" alt="im_groot13" /></a> </p>
 
-- 💻 I’m currently working on [Elegencia](https://elegencia.vercel.app/)
+- 💻 I’m currently working on [Syed Jawad Naqvi](https://syedjawadnaqvi.com/)
 
 - 🌱 I’m currently learning **TypeScript, Node.js & Express.js**
 
