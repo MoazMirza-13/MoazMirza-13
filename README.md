@@ -19,7 +19,7 @@ Focused on **JavaScript ecosystems**, modern frontend frameworks, and backend AP
 | JavaScript / TypeScript       | Node.js                    | PostgreSQL (SQL)   | AWS                               | 
 | React.js, Next.js             | Express.js, NestJS         | MongoDB (NoSQL)    | DigitalOcean                      | 
 | TailwindCSS, MUI, ShadCN      | Django                     |                    |                                   | 
-|                               | Supabase, Firebase         |                    |                                   |
+|                               | Supabase                   |                    |                                   |
 
 ---
 
